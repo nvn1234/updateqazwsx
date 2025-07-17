@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "buildNumber": "2",
+  "downloadUrl": "https://github.com/your-username/market-reminder-releases/releases/download/v1.0.1/market-reminder-v1.0.1.apk",
+  "changelog": "• Fixed URL launching issues\n• Added auto-update functionality\n• Improved app performance\n• Enhanced user interface",
+  "isForced": false
+}
